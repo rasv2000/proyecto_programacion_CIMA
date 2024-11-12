@@ -1,0 +1,23 @@
+Pendientes proyecto
+
+- Definir el problema
+	* Objetivo: determinar si el auto de Checo es el mismo que el de Max
+	* Descripción de la base de datos
+	* Metodología: 
+		- Implementación de un análisis por carrera
+	* Definir los alcances
+
+- Definir las variables
+	* Tiempos de vuelta (tal vez clasificatorias)
+
+- Implementación
+	* notebook jupyter (exploraciones)
+	* Deployment con streamlit (exposición de resultados, talvez agregar 
+					colección de graficos para los datos que se deseen)
+
+- Resultados
+	* Determinar si se cumple la hipótesis
+	* Presentación
+	* Streamlit
+	* Recapitular las herramientas que se utilizaron
+
